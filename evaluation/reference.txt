@@ -1,0 +1,2 @@
+Whisper converts spoken language into written text.
+This sample is used to test transcription accuracy.
